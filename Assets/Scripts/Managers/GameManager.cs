@@ -1,3 +1,4 @@
+using Signals;
 using UnityEngine;
 
 namespace Managers
@@ -38,7 +39,7 @@ namespace Managers
         {
             UnsubscribeEvents();
         }
-    
+
         private void OnChangeGameState(GameStates state)
         {
             states = state;
