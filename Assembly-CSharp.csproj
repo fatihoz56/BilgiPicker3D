@@ -58,7 +58,6 @@
      <Compile Include="Assets\Scripts\Data\ValueObjects\PlayerData.cs" />
      <Compile Include="Assets\Scripts\Data\UnityObjects\CD_Level.cs" />
      <Compile Include="Assets\Scripts\Enums\UIPanelTypes.cs" />
-     <Compile Include="Assets\Scripts\Handlers\UIEventSubscriber.cs" />
      <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
      <Compile Include="Assets\Scripts\Data\ValueObjects\LevelData.cs" />
      <Compile Include="Assets\Scripts\Managers\InputManager.cs" />
