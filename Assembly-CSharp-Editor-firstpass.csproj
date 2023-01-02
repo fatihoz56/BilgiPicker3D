@@ -776,6 +776,11 @@
       <Name>Unity.Searcher.Editor</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+    <ProjectReference Include="Boxophobic.Utils.Editor.csproj">
+      <Project>{F0B0D60A-A877-20C5-50BB-42BC8795F718}</Project>
+      <Name>Boxophobic.Utils.Editor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
       <Project>{14507501-280D-7DF5-DCB2-5E13E78E475A}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
@@ -796,19 +801,29 @@
       <Name>Unity.Rider.Editor</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+    <ProjectReference Include="Boxophobic.PolyverseSkies.Editor.csproj">
+      <Project>{E6B0CE19-5124-2425-F9B2-046A4A7AA311}</Project>
+      <Name>Boxophobic.PolyverseSkies.Editor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
       <Project>{1084DF1C-A7D3-2E1B-72CE-474E8D3CDAD5}</Project>
       <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="Sirenix.OdinInspector.Modules.UnityMathematics.csproj">
-      <Project>{A5649745-A6D4-82B6-4592-0B245335F0E5}</Project>
-      <Name>Sirenix.OdinInspector.Modules.UnityMathematics</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{EF5661B1-E139-2999-854E-FF17B3AA8730}</Project>
       <Name>UnityEngine.UI</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="NonConvexEditor.csproj">
+      <Project>{2CFBB5D1-D74C-6C21-2C55-3D29D0B9A607}</Project>
+      <Name>NonConvexEditor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="Sirenix.OdinInspector.Modules.UnityMathematics.csproj">
+      <Project>{A5649745-A6D4-82B6-4592-0B245335F0E5}</Project>
+      <Name>Sirenix.OdinInspector.Modules.UnityMathematics</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
@@ -819,6 +834,11 @@
     <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
       <Project>{BFD25CF0-3BBB-41AE-4AF8-E51D141F6DCF}</Project>
       <Name>Unity.ShaderGraph.Editor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="Boxophobic.Utils.Scripts.csproj">
+      <Project>{659A03DE-26C6-9B80-BBDC-47517A69F2D4}</Project>
+      <Name>Boxophobic.Utils.Scripts</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="Cinemachine.csproj">
@@ -841,9 +861,9 @@
       <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
-      <Project>{8F2B7701-8E59-CD05-0574-777CA21DAFB0}</Project>
-      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
+    <ProjectReference Include="sc.stylizedwater2.editor.csproj">
+      <Project>{C39A5B9A-747B-735A-57B2-FE538626E13C}</Project>
+      <Name>sc.stylizedwater2.editor</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
@@ -851,9 +871,39 @@
       <Name>Unity.Timeline.Editor</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
+      <Project>{8F2B7701-8E59-CD05-0574-777CA21DAFB0}</Project>
+      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="NonConvexCollider.csproj">
+      <Project>{1107D28A-1BA2-CC0C-A3FC-FD8804C921D7}</Project>
+      <Name>NonConvexCollider</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Editor.csproj">
       <Project>{74ECD8B7-4573-2004-3C50-784979992E2C}</Project>
       <Name>Unity.Mathematics.Editor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="RuntimeTestAssembly.csproj">
+      <Project>{78CA9942-633C-C0FC-F2FC-9445E81FE306}</Project>
+      <Name>RuntimeTestAssembly</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="Boxophobic.PolyverseSkies.Scripts.csproj">
+      <Project>{200E907E-D16A-7D08-12CC-90844569A5D2}</Project>
+      <Name>Boxophobic.PolyverseSkies.Scripts</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="sc.stylizedwater2.runtime.csproj">
+      <Project>{468F804C-7676-E77C-80AF-A549EDD92412}</Project>
+      <Name>sc.stylizedwater2.runtime</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="NonConvexColliderRuntimeAPI.csproj">
+      <Project>{D1C6EA7F-3143-4E92-6E9D-CCA4F1EFF330}</Project>
+      <Name>NonConvexColliderRuntimeAPI</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
@@ -864,6 +914,11 @@
     <ProjectReference Include="Unity.Recorder.csproj">
       <Project>{9D996E38-01A8-8C35-1DC3-5273D8570034}</Project>
       <Name>Unity.Recorder</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="Boxophobic.PolyverseSkies.Runtime.csproj">
+      <Project>{8AEC216F-7212-1887-799C-A5D26848A8CD}</Project>
+      <Name>Boxophobic.PolyverseSkies.Runtime</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
