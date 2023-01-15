@@ -304,85 +304,85 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Recorder.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Searcher.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Boxophobic.Utils.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Boxophobic.Utils.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Boxophobic.Utils.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Boxophobic.PolyverseSkies.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Boxophobic.PolyverseSkies.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Boxophobic.PolyverseSkies.Editor.dll</HintPath>
  </Reference>
  <Reference Include="NonConvexEditor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/NonConvexEditor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/NonConvexEditor.dll</HintPath>
  </Reference>
  <Reference Include="Sirenix.OdinInspector.Modules.UnityMathematics">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Sirenix.OdinInspector.Modules.UnityMathematics.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Sirenix.OdinInspector.Modules.UnityMathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.cinemachine.editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
  </Reference>
  <Reference Include="sc.stylizedwater2.editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/sc.stylizedwater2.editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/sc.stylizedwater2.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="DemiLib">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
  </Reference>
  <Reference Include="Sirenix.OdinInspector.Attributes">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll</HintPath>
  </Reference>
  <Reference Include="Sirenix.Serialization.AOTGenerated">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/AOT/Sirenix.Serialization.AOTGenerated.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/AOT/Sirenix.Serialization.AOTGenerated.dll</HintPath>
  </Reference>
  <Reference Include="Sirenix.Serialization.Config">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll</HintPath>
  </Reference>
  <Reference Include="Sirenix.Serialization">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="Sirenix.Utilities">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenPro">
- <HintPath>C:/Users/Fatih/Documents/BilgiPicker3D/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+ <HintPath>C:/Users/Fatih/Desktop/fatih yedek/01-01-2023/BilgiPicker3D/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

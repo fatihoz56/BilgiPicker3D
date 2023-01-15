@@ -88,12 +88,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelTexts:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 4671903842831105382}
+  - {fileID: 7009861366016500185}
   stageImages:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 6524158979256792379}
+  - {fileID: 4810621167180923048}
+  - {fileID: 3324311439273530024}
 --- !u!1 &1169382368222438689
 GameObject:
   m_ObjectHideFlags: 0
